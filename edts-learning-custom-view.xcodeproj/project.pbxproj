@@ -1,0 +1,555 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		323AF9632E0BA00F002EBB39 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 323AF94D2E0BA00E002EBB39 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 323AF9542E0BA00E002EBB39;
+			remoteInfo = "edts-learning-custom-view";
+		};
+		323AF96D2E0BA00F002EBB39 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 323AF94D2E0BA00E002EBB39 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 323AF9542E0BA00E002EBB39;
+			remoteInfo = "edts-learning-custom-view";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		323AF9552E0BA00E002EBB39 /* edts-learning-custom-view.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "edts-learning-custom-view.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		323AF9622E0BA00F002EBB39 /* edts-learning-custom-viewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "edts-learning-custom-viewTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		323AF96C2E0BA00F002EBB39 /* edts-learning-custom-viewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "edts-learning-custom-viewUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		323AF9572E0BA00E002EBB39 /* edts-learning-custom-view */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "edts-learning-custom-view";
+			sourceTree = "<group>";
+		};
+		323AF9652E0BA00F002EBB39 /* edts-learning-custom-viewTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "edts-learning-custom-viewTests";
+			sourceTree = "<group>";
+		};
+		323AF96F2E0BA00F002EBB39 /* edts-learning-custom-viewUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "edts-learning-custom-viewUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		323AF9522E0BA00E002EBB39 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		323AF95F2E0BA00F002EBB39 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		323AF9692E0BA00F002EBB39 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		323AF94C2E0BA00E002EBB39 = {
+			isa = PBXGroup;
+			children = (
+				323AF9572E0BA00E002EBB39 /* edts-learning-custom-view */,
+				323AF9652E0BA00F002EBB39 /* edts-learning-custom-viewTests */,
+				323AF96F2E0BA00F002EBB39 /* edts-learning-custom-viewUITests */,
+				323AF9562E0BA00E002EBB39 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		323AF9562E0BA00E002EBB39 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				323AF9552E0BA00E002EBB39 /* edts-learning-custom-view.app */,
+				323AF9622E0BA00F002EBB39 /* edts-learning-custom-viewTests.xctest */,
+				323AF96C2E0BA00F002EBB39 /* edts-learning-custom-viewUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		323AF9542E0BA00E002EBB39 /* edts-learning-custom-view */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 323AF9762E0BA00F002EBB39 /* Build configuration list for PBXNativeTarget "edts-learning-custom-view" */;
+			buildPhases = (
+				323AF9512E0BA00E002EBB39 /* Sources */,
+				323AF9522E0BA00E002EBB39 /* Frameworks */,
+				323AF9532E0BA00E002EBB39 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				323AF9572E0BA00E002EBB39 /* edts-learning-custom-view */,
+			);
+			name = "edts-learning-custom-view";
+			packageProductDependencies = (
+			);
+			productName = "edts-learning-custom-view";
+			productReference = 323AF9552E0BA00E002EBB39 /* edts-learning-custom-view.app */;
+			productType = "com.apple.product-type.application";
+		};
+		323AF9612E0BA00F002EBB39 /* edts-learning-custom-viewTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 323AF9792E0BA00F002EBB39 /* Build configuration list for PBXNativeTarget "edts-learning-custom-viewTests" */;
+			buildPhases = (
+				323AF95E2E0BA00F002EBB39 /* Sources */,
+				323AF95F2E0BA00F002EBB39 /* Frameworks */,
+				323AF9602E0BA00F002EBB39 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				323AF9642E0BA00F002EBB39 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				323AF9652E0BA00F002EBB39 /* edts-learning-custom-viewTests */,
+			);
+			name = "edts-learning-custom-viewTests";
+			packageProductDependencies = (
+			);
+			productName = "edts-learning-custom-viewTests";
+			productReference = 323AF9622E0BA00F002EBB39 /* edts-learning-custom-viewTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		323AF96B2E0BA00F002EBB39 /* edts-learning-custom-viewUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 323AF97C2E0BA00F002EBB39 /* Build configuration list for PBXNativeTarget "edts-learning-custom-viewUITests" */;
+			buildPhases = (
+				323AF9682E0BA00F002EBB39 /* Sources */,
+				323AF9692E0BA00F002EBB39 /* Frameworks */,
+				323AF96A2E0BA00F002EBB39 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				323AF96E2E0BA00F002EBB39 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				323AF96F2E0BA00F002EBB39 /* edts-learning-custom-viewUITests */,
+			);
+			name = "edts-learning-custom-viewUITests";
+			packageProductDependencies = (
+			);
+			productName = "edts-learning-custom-viewUITests";
+			productReference = 323AF96C2E0BA00F002EBB39 /* edts-learning-custom-viewUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		323AF94D2E0BA00E002EBB39 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					323AF9542E0BA00E002EBB39 = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					323AF9612E0BA00F002EBB39 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 323AF9542E0BA00E002EBB39;
+					};
+					323AF96B2E0BA00F002EBB39 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 323AF9542E0BA00E002EBB39;
+					};
+				};
+			};
+			buildConfigurationList = 323AF9502E0BA00E002EBB39 /* Build configuration list for PBXProject "edts-learning-custom-view" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 323AF94C2E0BA00E002EBB39;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 323AF9562E0BA00E002EBB39 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				323AF9542E0BA00E002EBB39 /* edts-learning-custom-view */,
+				323AF9612E0BA00F002EBB39 /* edts-learning-custom-viewTests */,
+				323AF96B2E0BA00F002EBB39 /* edts-learning-custom-viewUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		323AF9532E0BA00E002EBB39 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		323AF9602E0BA00F002EBB39 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		323AF96A2E0BA00F002EBB39 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		323AF9512E0BA00E002EBB39 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		323AF95E2E0BA00F002EBB39 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		323AF9682E0BA00F002EBB39 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		323AF9642E0BA00F002EBB39 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 323AF9542E0BA00E002EBB39 /* edts-learning-custom-view */;
+			targetProxy = 323AF9632E0BA00F002EBB39 /* PBXContainerItemProxy */;
+		};
+		323AF96E2E0BA00F002EBB39 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 323AF9542E0BA00E002EBB39 /* edts-learning-custom-view */;
+			targetProxy = 323AF96D2E0BA00F002EBB39 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		323AF9742E0BA00F002EBB39 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		323AF9752E0BA00F002EBB39 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		323AF9772E0BA00F002EBB39 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "fauzanspratama.edts-learning-custom-view";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		323AF9782E0BA00F002EBB39 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "fauzanspratama.edts-learning-custom-view";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		323AF97A2E0BA00F002EBB39 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "fauzanspratama.edts-learning-custom-viewTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/edts-learning-custom-view.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/edts-learning-custom-view";
+			};
+			name = Debug;
+		};
+		323AF97B2E0BA00F002EBB39 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "fauzanspratama.edts-learning-custom-viewTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/edts-learning-custom-view.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/edts-learning-custom-view";
+			};
+			name = Release;
+		};
+		323AF97D2E0BA00F002EBB39 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "fauzanspratama.edts-learning-custom-viewUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "edts-learning-custom-view";
+			};
+			name = Debug;
+		};
+		323AF97E2E0BA00F002EBB39 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "fauzanspratama.edts-learning-custom-viewUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "edts-learning-custom-view";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		323AF9502E0BA00E002EBB39 /* Build configuration list for PBXProject "edts-learning-custom-view" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				323AF9742E0BA00F002EBB39 /* Debug */,
+				323AF9752E0BA00F002EBB39 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		323AF9762E0BA00F002EBB39 /* Build configuration list for PBXNativeTarget "edts-learning-custom-view" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				323AF9772E0BA00F002EBB39 /* Debug */,
+				323AF9782E0BA00F002EBB39 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		323AF9792E0BA00F002EBB39 /* Build configuration list for PBXNativeTarget "edts-learning-custom-viewTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				323AF97A2E0BA00F002EBB39 /* Debug */,
+				323AF97B2E0BA00F002EBB39 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		323AF97C2E0BA00F002EBB39 /* Build configuration list for PBXNativeTarget "edts-learning-custom-viewUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				323AF97D2E0BA00F002EBB39 /* Debug */,
+				323AF97E2E0BA00F002EBB39 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 323AF94D2E0BA00E002EBB39 /* Project object */;
+}
